@@ -1,4 +1,4 @@
+The diagram above illustrates the workflow of the application
 ![Workflow Diagram](static_files/workflow.jpg)
 
-
-#####This project mimics repo from https://github.com/irtiza07/python-kafka-demo
+An example project created for learning purpose from Irtiza.
